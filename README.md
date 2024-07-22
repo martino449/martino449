@@ -10,4 +10,5 @@ I know i know.. not exactly raimbow but i'm working on that!🌈
 
 
 ## Salute the machine god
-![Uploading tumblr_n5mjmhi4xk1rsdpaso1_400.gif…]()
+![tumblr_n5mjmhi4xk1rsdpaso1_400](https://github.com/user-attachments/assets/37733df0-87b8-4787-b967-a50aa386cf70)
+
