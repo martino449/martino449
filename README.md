@@ -4,7 +4,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=martino449)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=martino449ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martino449&layout=pie)](https://github.com/martino449/github-readme-stats)
