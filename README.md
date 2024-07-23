@@ -4,6 +4,9 @@
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martino449&layout=pie)](https://github.com/martino449/github-readme-stats)
 I know i know.. not exactly raimbow but i'm working on that!🌈
 ![OGC](https://github.com/user-attachments/assets/e3879f82-4153-4f33-aa88-0cbaad9a4c7c)
