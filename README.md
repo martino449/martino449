@@ -8,8 +8,11 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martino449&layout=pie)](https://github.com/martino449/github-readme-stats)
-I know i know.. not exactly raimbow but i'm working on that!🌈
 [![My Skills](https://skillicons.dev/icons?i=cs,html,python)](https://skillicons.dev)
+I know i know.. not exactly raimbow but i'm working on that!🌈
+
+
+
 ![OGC](https://github.com/user-attachments/assets/e3879f82-4153-4f33-aa88-0cbaad9a4c7c)
 
 
