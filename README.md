@@ -8,7 +8,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martino449&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-[![My Skills](https://skillicons.dev/icons?i=windows,robloxstudio,replit,cs,html,python,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,robloxstudio,replit,cs,html,python,powershell,lua)](https://skillicons.dev)
 
 
 
