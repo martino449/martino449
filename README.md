@@ -7,7 +7,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=martino449)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martino449&layout=pie)](https://github.com/martino449/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martino449&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 [![My Skills](https://skillicons.dev/icons?i=windows,robloxstudio,replit,cs,html,python,powershell)](https://skillicons.dev)
 
 
