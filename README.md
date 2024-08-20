@@ -1,13 +1,13 @@
 ## Hi there my name is Mario Pisano AKA martin449
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martino449&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martino449&show_icons=true&theme=gruvbox)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martino449&layout=compact)
 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=martino449)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martino449&layout=compact)
+
 
 [![My Skills](https://skillicons.dev/icons?i=windows,robloxstudio,replit,cs,html,python,powershell,lua)](https://skillicons.dev)
 
