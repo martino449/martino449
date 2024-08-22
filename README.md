@@ -1,6 +1,6 @@
 ## Hi there my name is Mario Pisano AKA martin449
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martino449&show_icons=true&theme=gruvbox)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martino449&layout=pie&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martino449&show_icons=true&theme=gruvbox)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martino449&layout=compact&theme=gruvbox)
 
 
 
