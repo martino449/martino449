@@ -9,7 +9,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=windows,robloxstudio,replit,cs,html,python,powershell,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,robloxstudio,replit,cs,html,python,powershell,lua,ruby)](https://skillicons.dev)
 
 
 
