@@ -37,6 +37,7 @@ Welcome to my GitHub profile! I'm Mario Pisano, a developer passionate about **A
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=martino449&theme=monokai&row=2&column=4&no-bg=true&no-frame=true&margin-w=10&margin-h=10&rank=high&rank=top)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 ---
 
 ## 📚 Recent Projects
