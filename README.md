@@ -21,22 +21,21 @@ Welcome to my GitHub profile! I'm Mario Pisano, a developer passionate about **A
 - **Visual Studio Code (VSCode)**
 - **Notepad++**
 
-[![My Skills](https://skillicons.dev/icons?i=python,ruby,html,css,github,vscode,notepad++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ruby,html,batch,github,vscode,notepad++)](https://skillicons.dev)
 
 ---
 
 ## 📈 Statistics
 
+![Martin449's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martino449&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
 
-![Martin449's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martino449&layout=compact&theme=radical)
+### 📊 Repositories: ![Repository Count](https://img.shields.io/github/repo-size/martino449?label=Repositories&style=flat-square&color=blue)
 
 ---
 
 ## 🏆 Achievements
 
-![Martin449's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martino449&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
-
-
+[![Trophies](https://github-profile-trophy.vercel.app/?username=martino449&theme=monokai&row=2&column=4&no-bg=true&no-frame=true&margin-w=10&margin-h=10&rank=high&rank=top)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
