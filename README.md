@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm Mario Pisano, a developer passionate about **A
 - **Visual Studio Code (VSCode)**
 - **Notepad++**
 
-[![My Skills](https://skillicons.dev/icons?i=python,ruby,html,batch,github,vscode,notepad++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ruby,html,css,github,vscode,notepad++)](https://skillicons.dev)
 
 ---
 
