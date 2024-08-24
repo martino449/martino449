@@ -1,25 +1,72 @@
-## Hi there my name is Mario Pisano AKA martin449
+# 👋 Hi! I'm Mario Pisano (martin449)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martino449&show_icons=true&theme=gruvbox)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martino449&layout=compact&theme=gruvbox)
+Welcome to my GitHub profile! I'm Mario Pisano, a developer passionate about **Artificial Intelligence (AI)**, **simulation**, and **web development**. I primarily code out of curiosity and to explore new concepts and technologies.
 
+---
 
+## 🛠️ Technologies and Tools
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=martino449&theme=gruvbox&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=martino449&theme=gruvbox&no-frame=true&row=1&&margin-w=20&no-bg=true)
+### 🖥️ Programming Languages
+- **Python**
+- **Ruby**
+- **HTML**
+- **Batch**
 
+### 🔧 Frameworks and Libraries
+- **Flask**
+- **scikit-learn (sk-learn)**
 
+### 🛠️ Tools
+- **GitHub**
+- **Visual Studio Code (VSCode)**
+- **Notepad++**
 
+[![My Skills](https://skillicons.dev/icons?i=python,ruby,html,batch,github,vscode,notepad++)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=windows,robloxstudio,replit,cs,html,python,powershell,lua,ruby)](https://skillicons.dev)
+---
 
+## 📈 Statistics
 
+![Martin449's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martin449&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&include_all_commits=true&theme=radical)
 
+![Martin449's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martin449&layout=compact&theme=radical)
 
+---
 
+## 🏆 Achievements
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=martin449&theme=monokai&row=2&column=4&no-bg=true&no-frame=true&margin-w=10&margin-h=10&rank=high&rank=top)](https://github.com/ryo-ma/github-profile-trophy)
 
-![OGC](https://github.com/user-attachments/assets/e3879f82-4153-4f33-aa88-0cbaad9a4c7c)
+---
 
+## 📚 Recent Projects
 
-## Salute the machine god
-![tumblr_n5mjmhi4xk1rsdpaso1_400](https://github.com/user-attachments/assets/37733df0-87b8-4787-b967-a50aa386cf70)
+### 📖 **Librifacili**
+A project dedicated to managing books, with a detailed description in the repository's README file.
+- [View the Project](https://github.com/martino449/Librifacili/blob/main/README.md)
+
+### 📈 **Stockorium**
+A program that simulates a stock market with user accounts, portfolios, and trading capabilities. It also includes features such as secure data storage to protect user information and market data.
+- [View the Project](https://github.com/martino449/Stockorium)
+
+### 🌐 **Vectormate**
+Simulates vectors in a 3D world, allowing you to visualize and manipulate vectors in three-dimensional space.
+- [View the Project](https://github.com/martino449/Vectormate)
+
+---
+
+## 🚧 Ongoing Projects
+
+### 🎨 **Raytracing**
+Currently working on a raytracing project to create realistic photographic simulations with advanced rendering techniques.
+
+### 🔧 **Custom Programming Language**
+Developing my own programming language because I'm not satisfied with any of the existing ones. It's a project that allows me to explore my ideas and approaches to programming in a completely new way.
+
+---
+
+Thanks for visiting! 🚀
+
+---
+
 
