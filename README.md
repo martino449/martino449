@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm Mario Pisano, a developer passionate about **A
 - **Ruby**
 - **HTML**
 - **Batch**
+- **lua**
 
 ### 🔧 Frameworks and Libraries
 - **Flask**
@@ -29,16 +30,6 @@ Welcome to my GitHub profile! I'm Mario Pisano, a developer passionate about **A
 
 
 ![Martin449's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martino449&layout=compact&theme=radical)
-
----
-
-## 🏆 Achievements
-
-![Martin449's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martino449&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
-
-
-
----
 
 ## 📚 Recent Projects
 
