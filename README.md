@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Mario Pisano (martin449)
 
-Welcome to my GitHub profile! I'm Mario Pisano, a student passionate about **Artificial Intelligence**, **objects**, and **web development**. I primarily code out of curiosity and to explore new concepts and technologies.
+Welcome to my GitHub profile! I'm Mario Pisano, a student passionate about **Artificial Intelligence**, **objects**, and **cibersecurity**. I primarily code out of curiosity and to explore new concepts and technologies.
 
 ---
 
