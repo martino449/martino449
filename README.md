@@ -49,11 +49,6 @@ Simulates vectors in a 3D world, allowing you to visualize and manipulate vector
 
 ## 🚧 Ongoing Projects
 
-### 🎨 **Raytracing**
-Currently working on a raytracing project to create realistic photographic simulations with advanced rendering techniques.
-
-### 🔧 **Custom Programming Language**
-Developing my own programming language because I'm not satisfied with any of the existing ones. It's a project that allows me to explore my ideas and approaches to programming in a completely new way.
 
 ---
 
