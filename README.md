@@ -12,6 +12,8 @@ Welcome to my GitHub profile! I'm Mario Pisano, a student deeply passionate abou
 - **HTML**
 - **Batch**
 - **Lua**
+- **C#**
+- **C**
 
 ### 🔧 Frameworks and Libraries
 - **Flask**
@@ -22,7 +24,7 @@ Welcome to my GitHub profile! I'm Mario Pisano, a student deeply passionate abou
 - **Visual Studio Code (VSCode)**
 - **Notepad++**
 
-[![My Skills](https://skillicons.dev/icons?i=python,ruby,html,github,vscode,notepad++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ruby,html,github,vscode,notepad++,c,c#)](https://skillicons.dev)
 
 ---
 
