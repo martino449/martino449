@@ -19,6 +19,7 @@ projects coming soon in:
 ### 🔧 Frameworks and Libraries
 - **Flask**
 - **scikit-learn** (sklearn)
+- **Tensorflow**
 
 ### 🛠️ Tools
 - **GitHub**
