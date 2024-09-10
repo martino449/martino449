@@ -12,7 +12,8 @@ Welcome to my GitHub profile! I'm Mario Pisano, a student deeply passionate abou
 - **HTML**
 - **Batch**
 - **Lua**
-projects coming soon in:
+
+##### projects coming soon in:
 - **C#** 
 - **C**
 
