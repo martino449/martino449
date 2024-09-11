@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm Mario Pisano, a student deeply passionate abou
 
 ## 📊 GitHub Stats
 
-![martin449's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martino449&layout=pie&theme=radical)
+![martin449's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martino449&layout=pie&theme=radi77cal)
 
 ---
 
