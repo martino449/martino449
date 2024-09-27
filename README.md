@@ -7,13 +7,14 @@ Welcome to my GitHub profile! I'm Mario Pisano, a student deeply passionate abou
 ## 🛠️ Technologies and Tools
 
 ### 🖥️ Programming Languages
+#### main languages:
 - **Python**
 - **Ruby**
-- **HTML**
-- **Batch**
-- **Lua**
 
-##### projects coming soon in:
+#### other languages
+- **HTML**
+- **CSS**
+- **Batch**
 - **C#** 
 - **C**
 
