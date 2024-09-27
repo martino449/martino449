@@ -47,15 +47,16 @@ A complete book management system, with detailed documentation available in the 
 A stock market simulation program featuring user accounts, portfolios, and trading functionalities. It includes secure data storage to protect user information and market data.
 - [View Project](https://github.com/martino449/Stockorium)
 
-### 🌐 **Vectormate**
+### 🌐 **Mafati**
 A 3D vector simulation tool that allows users to visualize and manipulate vectors in a three-dimensional space.
-- [View Project](https://github.com/martino449/Vectormate)
+- [View Project](https://github.com/martino449/Mafati)
 
 ---
 
 ## 🚧 Current Projects
 
-**In development...**
+### Mafati:
+a simple functional programming language
 
 ---
 
